@@ -1,0 +1,28 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+#add{
+    width: 80%;
+    border-radius: 15px;
+    margin: 35px;
+}
+#sub{
+    width: 80%;
+    border-radius: 15px;
+    margin: 35px;
+}
+#mul{
+    width: 80%;
+    border-radius: 15px;
+    margin: 35px;
+}
+#div{
+    width: 80%;
+    border-radius: 15px;
+    margin: 35px;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
